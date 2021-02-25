@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+.avatar{
+	height:95px;
+	display: block;
+	margin-top:-50px;
+  margin-left: auto;
+  margin-right: auto;
+	border-height: 300px;
+	font-size:3vw;
+}
+.horizontal-line{
+	 border-top: 1px #696969;
+	margin-top: 130px;
+	margin-left:0px;
+}
+
+.centered
+{
+	height:95px;
+	padding-left:auto;
+	margin-top: 90px;
+}
+
+.first-heading{
+	font-family: "Rajdhani";
+	text-align: center;
+	font-size:28px;
+	margin-top:80px;
+}
+.form-1{
+	width:600px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:40px;
+
+}
+.avatarsec{
+	height:95px;
+	width:100px;
+	display:block;
+	margin-left:730px;
+	margin-top:-260px;
+}
